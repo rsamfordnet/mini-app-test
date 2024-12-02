@@ -1,0 +1,6 @@
+@SayHello_HostAddress = http://localhost:5287
+
+GET {{SayHello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

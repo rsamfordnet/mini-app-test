@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHello", "SayHello\SayHello.csproj", "{83ACF2DC-A892-43BF-AD3E-C33C0B55FA40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8904E4E8-20A2-40D4-8997-D1D7242B1593}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83ACF2DC-A892-43BF-AD3E-C33C0B55FA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ACF2DC-A892-43BF-AD3E-C33C0B55FA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ACF2DC-A892-43BF-AD3E-C33C0B55FA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ACF2DC-A892-43BF-AD3E-C33C0B55FA40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

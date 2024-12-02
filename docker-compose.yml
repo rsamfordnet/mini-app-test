@@ -1,0 +1,6 @@
+﻿services:
+  sayhello:
+    image: sayhello
+    build:
+      context: .
+      dockerfile: SayHello/Dockerfile
